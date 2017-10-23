@@ -4,6 +4,7 @@ body{
 
 .NAV{
   background-color: black;
+  border-color: black;
 }
 
 .title{
@@ -11,6 +12,7 @@ body{
   font-size: 40px;
 }
 
-.jumbotron{
-  margin-top: 80px;
+#contact{
+  text-align: center;
+  font-size: 58px;
 }
