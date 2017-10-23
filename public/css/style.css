@@ -1,0 +1,16 @@
+body{
+  /*background-color: black;*/
+}
+
+.NAV{
+  background-color: black;
+}
+
+.title{
+  /*text-align: center;*/
+  font-size: 40px;
+}
+
+.jumbotron{
+  margin-top: 80px;
+}
