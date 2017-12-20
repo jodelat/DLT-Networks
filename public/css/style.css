@@ -12,7 +12,35 @@ body{
   font-size: 40px;
 }
 
+.footer{
+  background-color: black;
+  height: 75px;
+  bottom: 0px;
+  font-weight: bold;
+}
+
 #contact{
   text-align: center;
-  font-size: 58px;
+  font-size: 48px;
+}
+
+#About{
+  text-align: center;
+}
+
+#questions{
+  text-align: left;
+}
+
+#description{
+  text-align: center;
+}
+
+#contact-form{
+  height: 100px;
+  width: 400px;
+}
+
+.white{
+  color: white;
 }
