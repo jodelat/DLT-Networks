@@ -44,3 +44,78 @@ body{
 .white{
   color: white;
 }
+
+@media screen and (max-width: 1580px){
+
+  .img{
+    width: 650px;
+  }
+
+}
+
+@media screen and (max-width: 1200px){
+
+  .img{
+    width: 380px;
+  }
+
+  #aboutpic{
+    width: 750px;
+  }
+
+  #message{
+    width: 625px!important;
+  }
+
+
+}
+
+@media screen and (max-width: 768px){
+
+  .img{
+    width: 700px;
+  }
+
+  #aboutpic{
+    width: 640px;
+  }
+
+  #message{
+    width: 625px!important;
+  }
+
+
+    p{
+      text-align: left;
+    }
+
+}
+
+@media screen and (max-width: 640px){
+
+  .img{
+    width: 370px;
+  }
+
+  #aboutpic{
+    height: 400px;
+    width: 370px;
+  }
+
+  #message{
+    width: 375px!important;
+  }
+
+  .box{
+        width: 370px!important;
+  }
+
+  .NAV{
+    width: 104%;
+  }
+
+  p{
+    text-align: left;
+  }
+
+}
